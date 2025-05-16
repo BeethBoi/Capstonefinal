@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(237, 204, 162);
+    text-align: center;
+}
+
+.home{
+    text-decoration: none;
+    padding-right: 50px;
+    padding-left: 0px;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+.home:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}
+
+.aboutme{
+    text-decoration: none;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+
+.aboutme:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}
+
+
+h1{
+    color: rgb(42, 174, 42);
+    text-shadow: rgb(89, 124, 49) 1px 0 10px;
+}
+/*
+img{
+    box-shadow: rgb(0, 96, 6) 1px 0 10px;
+    border: 5px;
+    border-color: rgb(97, 40, 21);
+    border-style: solid;
+}
+*/
+h3{
+    color: rgb(158, 119, 57);
+}
+
+.option1{
+    text-decoration: none;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+
+.option1:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}
+
+.option2{
+    text-decoration: none;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+.option2:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}

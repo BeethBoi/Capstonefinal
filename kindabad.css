@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(231, 195, 151);
+    text-align: center;
+}
+
+.home{
+    text-decoration: none;
+    padding-right: 50px;
+    padding-left: 0px;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+.home:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}
+
+.aboutme{
+    text-decoration: none;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+
+.aboutme:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}
+
+
+h1{
+    color: rgb(1, 117, 1);
+    text-shadow: rgb(89, 124, 49) 1px 0 10px;
+}
+
+h3{
+    color: rgb(158, 119, 57);
+}
+
+.option1{
+    text-decoration: none;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+
+.option1:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}
+
+.option2{
+    text-decoration: none;
+    background-color: bisque;
+    color: darksalmon;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: .5rem;
+}
+.option2:hover{
+    background-color: rgb(183, 126, 103);
+    color: brown;
+}
